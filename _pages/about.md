@@ -32,7 +32,7 @@ Chuang Li, **Weida Liang**, Yang Deng, Hengchang Hu, See-Kiong Ng, Min-Yen Kan, 
 [[PDF]](https://arxiv.org/pdf/2508.13889)
 
 [2] **From Harm to Help: Turning Reasoning In-Context Demos into Assets for Reasoning LMs**
-Haonan Wang, **Weida Liang**, Zihang Fu, Nie Zheng, Yifan Zhang, Yao Tong, Tongyao Zhu, Hao Jiang, Chuang Li, Jiaying Wu, Kenji Kawaguchi
+**Weida Liang**, Haonan Wang, Zihang Fu, Nie Zheng, Yifan Zhang, Yao Tong, Tongyao Zhu, Hao Jiang, Chuang Li, Jiaying Wu, Kenji Kawaguchi
 *arXiv 2025*
 [[PDF]](https://arxiv.org/pdf/2509.23196)
 
