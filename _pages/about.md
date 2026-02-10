@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth-year Ph.D. student advised by Prof. [Kenji Kawaguchi](https://ml.comp.nus.edu.sg/kawaguchi) at the School of Computing (SoC), National University of Singapore (NUS). Previously, I graduated from Tsinghua University with a B.S. degree in Electronic Engineering. I've had the fortune to work with Prof. [Dongmei Li](http://web.ee.tsinghua.edu.cn/lidongmei/en/index.htm) at Tsinghua University. Afterwards, I joined Center for Speech and Language Technologies (CSLT) as a research intern with Dr. [Lantian Li](http://166.111.134.19:7777/lilt/) and Prof. [Dong Wang](http://wangd.cslt.org/). Then I became an intern in ASR Oteam, Tencent Inc. in Beijing and did research in ASR and Multimodal Learning, organizing [ICPR MSR 2022](https://icprmsr.github.io/index.html) with Dr. [Jian Kang](https://scholar.google.com/citations?hl=zh-CN&user=aNKM4-wAAAAJ), etc.
+I am a fourth-year Ph.D. student advised by Prof. [Kenji Kawaguchi](https://ml.comp.nus.edu.sg/kawaguchi) at the School of Computing (SoC), National University of Singapore (NUS). I am also currently an intern with [Prof. Dawn Song](https://dawnsong.io/)'s team at UC Berkeley. Previously, I graduated from Tsinghua University with a B.S. degree in Electronic Engineering. I've had the fortune to work with Prof. [Dongmei Li](http://web.ee.tsinghua.edu.cn/lidongmei/en/index.htm) at Tsinghua University. Afterwards, I joined Center for Speech and Language Technologies (CSLT) as a research intern with Dr. [Lantian Li](http://166.111.134.19:7777/lilt/) and Prof. [Dong Wang](http://wangd.cslt.org/). Then I became an intern in ASR Oteam, Tencent Inc. in Beijing and did research in ASR and Multimodal Learning, organizing [ICPR MSR 2022](https://icprmsr.github.io/index.html) with Dr. [Jian Kang](https://scholar.google.com/citations?hl=zh-CN&user=aNKM4-wAAAAJ), etc.
 
 My research focuses on large language models, with an emphasis on the security and reliability of LLM-based agents and the foundations of reasoning in modern language models. I study how agentic systems fail under adversarial or ambiguous conditions, and investigate the internal mechanisms that enable or hinder robust multi-step reasoning, with the goal of improving safety, trustworthiness, and generalization.
 
@@ -48,7 +48,7 @@ Shan Huang, Shen Huang, Li Lu, Pengfei Hu, Lijuan Wang, Xiang Wang\*, Jian Kang,
 
 [5] **Enhanced Exemplar Autoencoder with Cycle Consistency Loss in Any-to-One Voice Conversion**
 **Weida Liang**, [Lantian Li](http://166.111.134.19:7777/lilt/), [Dong Wang](http://wangd.cslt.org/), [Wenqiang Du](http://cslt.riit.tsinghua.edu.cn/mediawiki/index.php/Cslt-member-eng#Wenqiang_Du_.28.E6.9D.9C.E6.96.87.E5.BC.BA.29)
-*Interspeech 2022*
+*arXiv 2022*
 [[PDF]](https://arxiv.org/pdf/2204.03847.pdf) [[Code]](https://gitlab.com/lwd17/enhanced_examplar_ae/-/tree/main/) [[Project Page]](http://166.111.134.19:7777/liangwd/cycle/)
 
 ---
@@ -133,10 +133,10 @@ Shan Huang, Shen Huang, Li Lu, Pengfei Hu, Lijuan Wang, Xiang Wang\*, Jian Kang,
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="margin-right: 20px; min-width: 80px;">
-    <img src="images/tiktok.png" alt="TikTok" width="80">
+    <img src="images/ByteDance_logo_English.svg.png" alt="ByteDance" width="80">
   </div>
   <div>
-    <strong>TikTok</strong> | Intern<br>
+    <strong>ByteDance</strong> | Intern<br>
     <em>2025.7 - Present</em><br>
     TikTok Live
   </div>
