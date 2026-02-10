@@ -129,6 +129,32 @@ Shan Huang, Shen Huang, Li Lu, Pengfei Hu, Lijuan Wang, Xiang Wang\*, Jian Kang,
 
 ---
 
+# 💻 Work Experience
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="margin-right: 20px; min-width: 80px;">
+    <img src="images/tiktok.png" alt="TikTok" width="80">
+  </div>
+  <div>
+    <strong>TikTok</strong> | Intern<br>
+    <em>2025.7 - Present</em><br>
+    TikTok Live, Recommendation
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="margin-right: 20px; min-width: 80px;">
+    <img src="images/tencent.jpg" alt="Tencent" width="80">
+  </div>
+  <div>
+    <strong>Tencent</strong> | Intern<br>
+    <em>2022.3 - 2022.6</em><br>
+    ASR Oteam
+  </div>
+</div>
+
+---
+
 # ✉️ Contact
 
 - **Email:** weida_liang[at]u.nus.edu

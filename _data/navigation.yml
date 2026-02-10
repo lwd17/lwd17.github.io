@@ -12,5 +12,8 @@ main:
   - title: "Education"
     url: "/#-education"
 
-  - title: "Experience"
+  - title: "Research"
     url: "/#-research-experience"
+
+  - title: "Work"
+    url: "/#-work-experience"
