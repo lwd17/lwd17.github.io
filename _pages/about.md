@@ -138,7 +138,7 @@ Shan Huang, Shen Huang, Li Lu, Pengfei Hu, Lijuan Wang, Xiang Wang\*, Jian Kang,
   <div>
     <strong>TikTok</strong> | Intern<br>
     <em>2025.7 - Present</em><br>
-    TikTok Live, Recommendation
+    TikTok Live
   </div>
 </div>
 
