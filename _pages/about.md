@@ -26,15 +26,15 @@ My research focuses on large language models, with an emphasis on the security a
 
 # 📝 Publications
 
-[1] **From Harm to Help: Turning Reasoning In-Context Demos into Assets for Reasoning LMs**
-Haonan Wang, **Weida Liang**, Zihang Fu, Nie Zheng, Yifan Zhang, Yao Tong, Tongyao Zhu, Hao Jiang, Chuang Li, Jiaying Wu, Kenji Kawaguchi
-*arXiv 2025*
-[[PDF]](https://arxiv.org/pdf/2509.23196)
-
-[2] **CARE: Contextual Adaptation of Recommenders for LLM-based Conversational Recommendation**
+[1] **CARE: Contextual Adaptation of Recommenders for LLM-based Conversational Recommendation**
 Chuang Li, **Weida Liang**, Yang Deng, Hengchang Hu, See-Kiong Ng, Min-Yen Kan, Haizhou Li
 *ECIR 2026*
 [[PDF]](https://arxiv.org/pdf/2508.13889)
+
+[2] **From Harm to Help: Turning Reasoning In-Context Demos into Assets for Reasoning LMs**
+Haonan Wang, **Weida Liang**, Zihang Fu, Nie Zheng, Yifan Zhang, Yao Tong, Tongyao Zhu, Hao Jiang, Chuang Li, Jiaying Wu, Kenji Kawaguchi
+*arXiv 2025*
+[[PDF]](https://arxiv.org/pdf/2509.23196)
 
 [3] **PromptArmor: Simple yet Effective Prompt Injection Defenses**
 Tianneng Shi, Kaijie Zhu, Zhun Wang, Yuqi Jia, Will Cai, **Weida Liang**, Haonan Wang, Hend Alzahrani, etc.
