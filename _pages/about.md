@@ -47,7 +47,7 @@ Shan Huang, Shen Huang, Li Lu, Pengfei Hu, Lijuan Wang, Xiang Wang\*, Jian Kang,
 [[Project Page]](https://icprmsr.github.io/)
 
 [5] **Enhanced Exemplar Autoencoder with Cycle Consistency Loss in Any-to-One Voice Conversion**
-**Weida Liang**, [Lantian Li](http://166.111.134.19:7777/lilt/), [Dong Wang](http://wangd.cslt.org/), [Wenqiang Du](http://cslt.riit.tsinghua.edu.cn/mediawiki/index.php/Cslt-member-eng#Wenqiang_Du_.28.E6.9D.9C.E6.96.87.E5.BC.BA.29)
+**Weida Liang**, Lantian Li, Wenqiang Du, Dong Wang
 *arXiv 2022*
 [[PDF]](https://arxiv.org/pdf/2204.03847.pdf) [[Code]](https://gitlab.com/lwd17/enhanced_examplar_ae/-/tree/main/) [[Project Page]](http://166.111.134.19:7777/liangwd/cycle/)
 
@@ -96,34 +96,12 @@ Shan Huang, Shen Huang, Li Lu, Pengfei Hu, Lijuan Wang, Xiang Wang\*, Jian Kang,
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="margin-right: 20px; min-width: 80px;">
-    <img src="images/tencent.jpg" alt="Tencent" width="80">
-  </div>
-  <div>
-    <strong>Tencent</strong> | Research Intern<br>
-    <em>2022.3 - 2022.6</em><br>
-    Advisor: Dr. <a href="https://scholar.google.com/citations?hl=zh-CN&user=aNKM4-wAAAAJ">Jian Kang</a>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="margin-right: 20px; min-width: 80px;">
     <img src="images/CSLT.png" alt="CSLT" width="80">
   </div>
   <div>
     <strong>Center for Speech and Language Technologies</strong> | Research Intern<br>
     <em>2021.8 - 2022.4</em><br>
     Advisor: Prof. <a href="http://wangd.cslt.org/">Dong Wang</a>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="margin-right: 20px; min-width: 80px;">
-    <img src="images/THU.png" alt="Tsinghua University" width="80">
-  </div>
-  <div>
-    <strong>Tsinghua University</strong> | B.S. Student<br>
-    <em>2017.8 - 2021.6</em><br>
-    Advisor: Prof. <a href="http://web.ee.tsinghua.edu.cn/lidongmei/en/index.htm">Dongmei Li</a>
   </div>
 </div>
 
