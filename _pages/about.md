@@ -115,8 +115,19 @@ Shan Huang, Shen Huang, Li Lu, Pengfei Hu, Lijuan Wang, Xiang Wang\*, Jian Kang,
   </div>
   <div>
     <strong>ByteDance</strong> | Intern<br>
-    <em>2025.7 - Present</em><br>
+    <em>2026.1 - Present</em><br>
     TikTok Live
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="margin-right: 20px; min-width: 80px;">
+    <img src="images/ByteDance_logo_English.svg.png" alt="ByteDance" width="80">
+  </div>
+  <div>
+    <strong>ByteDance</strong> | Intern<br>
+    <em>2025.7 - 2025.11</em><br>
+    TikTok Mall
   </div>
 </div>
 
