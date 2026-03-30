@@ -26,27 +26,32 @@ My research focuses on large language models, with an emphasis on the security a
 
 # 📝 Publications
 
-[1] **CARE: Contextual Adaptation of Recommenders for LLM-based Conversational Recommendation**
+[1] **Strategy Executability in Mathematical Reasoning: Leveraging Human-Model Differences for Effective Guidance**  
+**Weida Liang**, Yiyou Sun, Shuyuan Nan, Chuang Li, Dawn Song, Kenji Kawaguchi  
+*arXiv 2026*  
+[[PDF]](https://arxiv.org/pdf/2602.22583)
+
+[2] **CARE: Contextual Adaptation of Recommenders for LLM-based Conversational Recommendation**
 Chuang Li, **Weida Liang**, Yang Deng, Hengchang Hu, See-Kiong Ng, Min-Yen Kan, Haizhou Li
 *ECIR 2026*
 [[PDF]](https://arxiv.org/pdf/2508.13889)
 
-[2] **From Harm to Help: Turning Reasoning In-Context Demos into Assets for Reasoning LMs**
+[3] **From Harm to Help: Turning Reasoning In-Context Demos into Assets for Reasoning LMs**
 **Weida Liang**\*, Haonan Wang\*, Zihang Fu\*, Nie Zheng, Yifan Zhang, Yao Tong, Tongyao Zhu, Hao Jiang, Chuang Li, Jiaying Wu, Kenji Kawaguchi
 *arXiv 2025*
 [[PDF]](https://arxiv.org/pdf/2509.23196)
 
-[3] **PromptArmor: Simple yet Effective Prompt Injection Defenses**
+[4] **PromptArmor: Simple yet Effective Prompt Injection Defenses**
 Tianneng Shi, Kaijie Zhu, Zhun Wang, Yuqi Jia, Will Cai, **Weida Liang**, Haonan Wang, Hend Alzahrani, etc.
 *arXiv 2025*
 [[PDF]](https://arxiv.org/pdf/2507.15219)
 
-[4] **ICPR 2022 Challenge on Multi-Modal Subtitle Recognition**
+[5] **ICPR 2022 Challenge on Multi-Modal Subtitle Recognition**
 Shan Huang, Shen Huang, Li Lu, Pengfei Hu, Lijuan Wang, Xiang Wang\*, Jian Kang, **Weida Liang**, etc.
 *ICPR 2022*
 [[Project Page]](https://icprmsr.github.io/)
 
-[5] **Enhanced Exemplar Autoencoder with Cycle Consistency Loss in Any-to-One Voice Conversion**
+[6] **Enhanced Exemplar Autoencoder with Cycle Consistency Loss in Any-to-One Voice Conversion**
 **Weida Liang**, Lantian Li, Wenqiang Du, Dong Wang
 *arXiv 2022*
 [[PDF]](https://arxiv.org/pdf/2204.03847.pdf) [[Code]](https://gitlab.com/lwd17/enhanced_examplar_ae/-/tree/main/) [[Project Page]](http://166.111.134.19:7777/liangwd/cycle/)
@@ -141,6 +146,13 @@ Shan Huang, Shen Huang, Li Lu, Pengfei Hu, Lijuan Wang, Xiang Wang\*, Jian Kang,
     ASR Oteam
   </div>
 </div>
+
+---
+
+# 🏛 Academic Service
+
+- Reviewer for **ICML, NeurIPS, COLM, etc.**
+ Teaching Assistant for **CS5242**, **CS4243**, **IT5001**, and related courses 
 
 ---
 
