@@ -14,10 +14,14 @@ I am a fourth-year Ph.D. student advised by Prof. [Kenji Kawaguchi](https://ml.c
 
 My research focuses on large language models, with an emphasis on the security and reliability of LLM-based agents and the foundations of reasoning in modern language models. I study how agentic systems fail under adversarial or ambiguous conditions, and investigate the internal mechanisms that enable or hinder robust multi-step reasoning, with the goal of improving safety, trustworthiness, and generalization.
 
+Going forward, I will be actively focusing on **model reasoning** and **multi-agent systems**. I am actively looking for collaborators who share these interests — if you are interested in working together, feel free to reach out!🔥🔥🔥
+
 ---
 
 # 🔥 News
 
+- **[May 2026]** Our paper **Strategy Executability in Mathematical Reasoning: Leveraging Human-Model Differences for Effective Guidance** has been accepted by **ICML 2026**! See you in Seoul!
+- **[May 2026]** I am honored to receive the **Gold Reviewer Award** at ICML 2026. Many thanks to the committee for the recognition!
 - **[Feb 2026]** We open-sourced a high-quality strategy extraction and reasoning-guidance pipeline, enabling structured reasoning supervision and execution: [strategy-execute-pipeline](https://github.com/lwd17/strategy-execute-pipeline)
 - **[Feb 2026]** We released **HM-ReasoningBench**, the first competitive dataset pairing model-generated solutions with human reasoning traces: [HM-ReasoningBench](https://huggingface.co/datasets/jasonlwd/HM-ReasoningBench)
 - **[Jan 2026]** Our paper, **CARE: Contextual Adaptation of Recommenders for LLM-based Conversational Recommendation**, was accepted by **ECIR 2026**!
@@ -28,7 +32,7 @@ My research focuses on large language models, with an emphasis on the security a
 
 [1] **Strategy Executability in Mathematical Reasoning: Leveraging Human-Model Differences for Effective Guidance**  
 **Weida Liang**, Yiyou Sun, Shuyuan Nan, Chuang Li, Dawn Song, Kenji Kawaguchi  
-*arXiv 2026*  
+*ICML 2026*  
 [[PDF]](https://arxiv.org/pdf/2602.22583)
 
 [2] **CARE: Contextual Adaptation of Recommenders for LLM-based Conversational Recommendation**
