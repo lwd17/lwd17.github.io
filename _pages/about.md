@@ -20,6 +20,7 @@ Going forward, I will be actively focusing on **model reasoning** and **multi-ag
 
 # 🔥 News
 
+- **[Aug 2026]** Our paper **From Harm to Help: Turning Reasoning In-Context Demos into Assets for Reasoning LMs** has been accepted by **EMNLP 2026 Findings**!
 - **[May 2026]** Our paper **Strategy Executability in Mathematical Reasoning: Leveraging Human-Model Differences for Effective Guidance** has been accepted by **ICML 2026**! See you in Seoul!
 - **[May 2026]** I am honored to receive the **Gold Reviewer Award** at ICML 2026. Many thanks to the committee for the recognition!
 - **[Feb 2026]** We open-sourced a high-quality strategy extraction and reasoning-guidance pipeline, enabling structured reasoning supervision and execution: [strategy-execute-pipeline](https://github.com/lwd17/strategy-execute-pipeline)
@@ -42,7 +43,7 @@ Chuang Li, **Weida Liang**, Yang Deng, Hengchang Hu, See-Kiong Ng, Min-Yen Kan, 
 
 [3] **From Harm to Help: Turning Reasoning In-Context Demos into Assets for Reasoning LMs**
 **Weida Liang**\*, Haonan Wang\*, Zihang Fu\*, Nie Zheng, Yifan Zhang, Yao Tong, Tongyao Zhu, Hao Jiang, Chuang Li, Jiaying Wu, Kenji Kawaguchi
-*arXiv 2025*
+*EMNLP 2026 Findings*
 [[PDF]](https://arxiv.org/pdf/2509.23196)
 
 [4] **PromptArmor: Simple yet Effective Prompt Injection Defenses**
