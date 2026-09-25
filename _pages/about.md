@@ -20,6 +20,7 @@ Going forward, I will be actively focusing on **model reasoning** and **multi-ag
 
 # 🔥 News
 
+- **[Sep 2026]** Two first-author papers have been accepted by **NeurIPS 2026**! See you in Sydney!
 - **[Aug 2026]** Our paper **From Harm to Help: Turning Reasoning In-Context Demos into Assets for Reasoning LMs** has been accepted by **EMNLP 2026 Findings**!
 - **[May 2026]** Our paper **Strategy Executability in Mathematical Reasoning: Leveraging Human-Model Differences for Effective Guidance** has been accepted by **ICML 2026**! See you in Seoul!
 - **[May 2026]** I am honored to receive the **Gold Reviewer Award** at ICML 2026. Many thanks to the committee for the recognition!
@@ -31,32 +32,40 @@ Going forward, I will be actively focusing on **model reasoning** and **multi-ag
 
 # 📝 Publications
 
-[1] **Strategy Executability in Mathematical Reasoning: Leveraging Human-Model Differences for Effective Guidance**  
+[1] **Confidence-Calibrated Inference Expansion for Evaluator-Guided Test-Time Reasoning**  
+**Weida Liang**, Kenji Kawaguchi  
+*NeurIPS 2026*
+
+[2] **Bayesian Test-Time Inference of Task-Aligned Similarity from Weak Interactive Feedback**  
+**Weida Liang**, Kenji Kawaguchi  
+*NeurIPS 2026*
+
+[3] **Strategy Executability in Mathematical Reasoning: Leveraging Human-Model Differences for Effective Guidance**  
 **Weida Liang**, Yiyou Sun, Shuyuan Nan, Chuang Li, Dawn Song, Kenji Kawaguchi  
 *ICML 2026*  
 [[PDF]](https://arxiv.org/pdf/2602.22583)
 
-[2] **CARE: Contextual Adaptation of Recommenders for LLM-based Conversational Recommendation**
+[4] **CARE: Contextual Adaptation of Recommenders for LLM-based Conversational Recommendation**
 Chuang Li, **Weida Liang**, Yang Deng, Hengchang Hu, See-Kiong Ng, Min-Yen Kan, Haizhou Li
 *ECIR 2026*
 [[PDF]](https://arxiv.org/pdf/2508.13889)
 
-[3] **From Harm to Help: Turning Reasoning In-Context Demos into Assets for Reasoning LMs**
+[5] **From Harm to Help: Turning Reasoning In-Context Demos into Assets for Reasoning LMs**
 **Weida Liang**\*, Haonan Wang\*, Zihang Fu\*, Nie Zheng, Yifan Zhang, Yao Tong, Tongyao Zhu, Hao Jiang, Chuang Li, Jiaying Wu, Kenji Kawaguchi
 *EMNLP 2026 Findings*
 [[PDF]](https://arxiv.org/pdf/2509.23196)
 
-[4] **PromptArmor: Simple yet Effective Prompt Injection Defenses**
+[6] **PromptArmor: Simple yet Effective Prompt Injection Defenses**
 Tianneng Shi, Kaijie Zhu, Zhun Wang, Yuqi Jia, Will Cai, **Weida Liang**, Haonan Wang, Hend Alzahrani, etc.
 *arXiv 2025*
 [[PDF]](https://arxiv.org/pdf/2507.15219)
 
-[5] **ICPR 2022 Challenge on Multi-Modal Subtitle Recognition**
+[7] **ICPR 2022 Challenge on Multi-Modal Subtitle Recognition**
 Shan Huang, Shen Huang, Li Lu, Pengfei Hu, Lijuan Wang, Xiang Wang\*, Jian Kang, **Weida Liang**, etc.
 *ICPR 2022*
 [[Project Page]](https://icprmsr.github.io/)
 
-[6] **Enhanced Exemplar Autoencoder with Cycle Consistency Loss in Any-to-One Voice Conversion**
+[8] **Enhanced Exemplar Autoencoder with Cycle Consistency Loss in Any-to-One Voice Conversion**
 **Weida Liang**, Lantian Li, Wenqiang Du, Dong Wang
 *arXiv 2022*
 [[PDF]](https://arxiv.org/pdf/2204.03847.pdf) [[Code]](https://gitlab.com/lwd17/enhanced_examplar_ae/-/tree/main/) [[Project Page]](http://166.111.134.19:7777/liangwd/cycle/)
@@ -156,7 +165,7 @@ Shan Huang, Shen Huang, Li Lu, Pengfei Hu, Lijuan Wang, Xiang Wang\*, Jian Kang,
 
 # 🏛 Academic Service
 
-- Reviewer for **ICML, NeurIPS, COLM, etc.**
+- Reviewer for **ICML, NeurIPS, ICLR, COLM, etc.**
  Teaching Assistant for **CS5242**, **CS4243**, **IT5001**, and related courses 
 
 ---
