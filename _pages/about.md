@@ -166,7 +166,7 @@ Shan Huang, Shen Huang, Li Lu, Pengfei Hu, Lijuan Wang, Xiang Wang\*, Jian Kang,
 # 🏛 Academic Service
 
 - Reviewer for **ICML, NeurIPS, ICLR, COLM, etc.**
- Teaching Assistant for **CS5242**, **CS4243**, **IT5001**, and related courses 
+- Teaching Assistant for **CS5242**, **CS4243**, **IT5001**, and related courses
 
 ---
 
