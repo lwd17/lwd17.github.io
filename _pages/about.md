@@ -10,11 +10,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a fourth-year Ph.D. student advised by Prof. [Kenji Kawaguchi](https://ml.comp.nus.edu.sg/kawaguchi) at the School of Computing (SoC), National University of Singapore (NUS). I am also currently an intern with Prof. [Dawn Song](https://dawnsong.io/)'s team at UC Berkeley. Previously, I graduated from Tsinghua University with a B.S. degree in Electronic Engineering. I've had the fortune to work with Prof. [Dongmei Li](http://web.ee.tsinghua.edu.cn/lidongmei/en/index.htm) at Tsinghua University. Afterwards, I joined Center for Speech and Language Technologies (CSLT) as a research intern with Dr. [Lantian Li](http://166.111.134.19:7777/lilt/) and Prof. [Dong Wang](http://wangd.cslt.org/). Then I became an intern in ASR Oteam, Tencent Inc. in Beijing and did research in ASR and Multimodal Learning, organizing [ICPR MSR 2022](https://icprmsr.github.io/index.html) with Dr. [Jian Kang](https://scholar.google.com/citations?hl=zh-CN&user=aNKM4-wAAAAJ), etc.
+I am a Ph.D. candidate advised by Prof. [Kenji Kawaguchi](https://ml.comp.nus.edu.sg/kawaguchi) at the School of Computing (SoC), National University of Singapore (NUS). I am currently working as a Research Associate with Prof. [Wenya Wang](https://personal.ntu.edu.sg/wangwy/)'s team at Nanyang Technological University (NTU), and I am also an intern with Prof. [Dawn Song](https://dawnsong.io/)'s team at UC Berkeley. Previously, I graduated from Tsinghua University with a B.S. degree in Electronic Engineering. I've had the fortune to work with Prof. [Dongmei Li](http://web.ee.tsinghua.edu.cn/lidongmei/en/index.htm) at Tsinghua University. Afterwards, I joined Center for Speech and Language Technologies (CSLT) as a research intern with Dr. [Lantian Li](http://166.111.134.19:7777/lilt/) and Prof. [Dong Wang](http://wangd.cslt.org/). Then I became an intern in ASR Oteam, Tencent Inc. in Beijing and did research in ASR and Multimodal Learning, organizing [ICPR MSR 2022](https://icprmsr.github.io/index.html) with Dr. [Jian Kang](https://scholar.google.com/citations?hl=zh-CN&user=aNKM4-wAAAAJ), etc.
 
 My research focuses on large language models, with an emphasis on the security and reliability of LLM-based agents and the foundations of reasoning in modern language models. I study how agentic systems fail under adversarial or ambiguous conditions, and investigate the internal mechanisms that enable or hinder robust multi-step reasoning, with the goal of improving safety, trustworthiness, and generalization.
 
 Going forward, I will be actively focusing on **model reasoning** and **multi-agent systems**. I am actively looking for collaborators who share these interests — if you are interested in working together, feel free to reach out!🔥🔥🔥
+
+**I am on the job market this year. Please feel free to contact me about relevant opportunities!**
 
 ---
 
@@ -130,12 +132,23 @@ Shan Huang, Shen Huang, Li Lu, Pengfei Hu, Lijuan Wang, Xiang Wang\*, Jian Kang,
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="margin-right: 20px; min-width: 80px;">
+    <img src="images/NTU.png" alt="NTU" width="80">
+  </div>
+  <div>
+    <strong>Nanyang Technological University</strong> | Research Associate<br>
+    <em>2026.8 - Present</em><br>
+    Advisor: Prof. <a href="https://personal.ntu.edu.sg/wangwy/">Wenya Wang</a>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="margin-right: 20px; min-width: 80px;">
     <img src="images/ByteDance_logo_English.svg.png" alt="ByteDance" width="80">
   </div>
   <div>
     <strong>ByteDance</strong> | Intern<br>
-    <em>2026.1 - Present</em><br>
-    TikTok Live
+    <em>2026.1 - 2026.5</em><br>
+    TikTok Data Live
   </div>
 </div>
 
