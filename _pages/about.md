@@ -130,6 +130,7 @@ Shan Huang, Shen Huang, Li Lu, Pengfei Hu, Lijuan Wang, Xiang Wang\*, Jian Kang,
 
 # 💻 Work Experience
 
+<!--
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="margin-right: 20px; min-width: 80px;">
     <img src="images/NTU.png" alt="NTU" width="80">
@@ -140,6 +141,7 @@ Shan Huang, Shen Huang, Li Lu, Pengfei Hu, Lijuan Wang, Xiang Wang\*, Jian Kang,
     Advisor: Prof. <a href="https://personal.ntu.edu.sg/wangwy/">Wenya Wang</a>
   </div>
 </div>
+-->
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="margin-right: 20px; min-width: 80px;">
